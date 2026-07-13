@@ -1,0 +1,1 @@
+Git diff command is used for comparing changes of local, staged and between two commits and between files
